@@ -2,7 +2,7 @@
 
 ## Código de recomendação de carreira baseado nas habilidades profissionais do usuário de um aplicativo voltado para reduzir a taxa de evasão escolar.
 
-# Equipe formanda por:
+# Equipe formada por:
 
 - Arthur Sosnowski
 - Carlos Nascimento
@@ -11,4 +11,4 @@
 - Otavyo Glycerio
 - Prícilla Suzano
 
-Código elaborado localmetne, e depois feito o commit único para poder enviar o link para a competição.
+Código elaborado localmente, e depois feito o commit único para poder enviar o link para a competição.
