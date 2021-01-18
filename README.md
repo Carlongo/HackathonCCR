@@ -19,3 +19,5 @@ Exemplo de entrada: `Python, Data, Cloud, Engineer`
 Exemplo de saída: `Data Scientist`
 
 Código elaborado localmente, e depois feito o commit único para poder enviar o link para a competição.
+
+Esse código foi baseado em: https://github.com/ggeop/Job-Recommendation-Engine.
